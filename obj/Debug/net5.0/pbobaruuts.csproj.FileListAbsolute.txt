@@ -1,0 +1,16 @@
+C:\vscode\pbobaruuts\bin\Debug\net5.0\pbobaruuts.exe
+C:\vscode\pbobaruuts\bin\Debug\net5.0\pbobaruuts.deps.json
+C:\vscode\pbobaruuts\bin\Debug\net5.0\pbobaruuts.runtimeconfig.json
+C:\vscode\pbobaruuts\bin\Debug\net5.0\pbobaruuts.runtimeconfig.dev.json
+C:\vscode\pbobaruuts\bin\Debug\net5.0\pbobaruuts.dll
+C:\vscode\pbobaruuts\bin\Debug\net5.0\ref\pbobaruuts.dll
+C:\vscode\pbobaruuts\bin\Debug\net5.0\pbobaruuts.pdb
+C:\vscode\pbobaruuts\obj\Debug\net5.0\pbobaruuts.csprojAssemblyReference.cache
+C:\vscode\pbobaruuts\obj\Debug\net5.0\pbobaruuts.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscode\pbobaruuts\obj\Debug\net5.0\pbobaruuts.AssemblyInfoInputs.cache
+C:\vscode\pbobaruuts\obj\Debug\net5.0\pbobaruuts.AssemblyInfo.cs
+C:\vscode\pbobaruuts\obj\Debug\net5.0\pbobaruuts.csproj.CoreCompileInputs.cache
+C:\vscode\pbobaruuts\obj\Debug\net5.0\pbobaruuts.dll
+C:\vscode\pbobaruuts\obj\Debug\net5.0\ref\pbobaruuts.dll
+C:\vscode\pbobaruuts\obj\Debug\net5.0\pbobaruuts.pdb
+C:\vscode\pbobaruuts\obj\Debug\net5.0\pbobaruuts.genruntimeconfig.cache
